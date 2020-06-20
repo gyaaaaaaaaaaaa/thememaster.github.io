@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](assets/images/b.png)
+![Branching](https://camo.githubusercontent.com/cc66056a4dd8c8efa344441c89b98e7585b75632/68747470733a2f2f6775696465732e6769746875622e636f6d2f616374697669746965732f68656c6c6f2d776f726c642f6272616e6368696e672e706e67)
 
 
 ### Definition lists can be used with HTML syntax.
