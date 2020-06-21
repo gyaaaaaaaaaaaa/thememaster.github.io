@@ -100,6 +100,22 @@ end
 
 ![Branching](https://camo.githubusercontent.com/cc66056a4dd8c8efa344441c89b98e7585b75632/68747470733a2f2f6775696465732e6769746875622e636f6d2f616374697669746965732f68656c6c6f2d776f726c642f6272616e6368696e672e706e67)
 
+![Branching](/assets/images/00001.png)
+![Branching](/assets/images/00002.png)
+![Branching](/assets/images/00003.png)
+![Branching](/assets/images/00004.png)
+![Branching](/assets/images/00005.png)
+![Branching](/assets/images/00006.png)
+![Branching](/assets/images/00007.png)
+![Branching](/assets/images/00008.png)
+![Branching](/assets/images/00009.png)
+![Branching](/assets/images/00010.png)
+![Branching](/assets/images/00011.png)
+![Branching](/assets/images/00012.png)
+![Branching](/assets/images/00013.png)
+![Branching](/assets/images/00014.png)
+![Branching](/assets/images/00015.png)
+![Branching](/assets/images/00016.png)
 
 ### Definition lists can be used with HTML syntax.
 
